@@ -34,7 +34,7 @@ the resulting variables  in tidy.txt are
 - subjectId -  identifie the subject ( integer ranges from 1 to 30)
 - activity - The type of activity performed ((WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING,LAYING)    
 
-79 averaged signal measurements floating-point values, normalised and bounded within [-1,1]  
+and the 79  measurements floating-point values, normalised and bounded within [-1,1] are : 
               
 - tBodyAccmeanX                
 - tBodyAccmeanY                
